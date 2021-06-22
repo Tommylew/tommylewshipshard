@@ -1,20 +1,19 @@
 [
-{
- "Name":"Tommylew",
- "comment": "",
- "allycode": "938856333",
- "usericon": "",
- "tagIdOnDrop": "416358831388491796",
- "tagIdOnClimb": "",
- },
- 
- {
- "Name":"Mandalor",
- "comment": "",
- "allycode": "321524675",
- "usericon": "",
- "tagIdOnDrop": "452809305255575582",
- "tagIdOnClimb": "",
- },
- 
- ]
+  {
+    "name": "Tommylew",
+    "comment": "useIcon accepts emoji or any other text",
+    "allyCode": "938856333",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "416358831388491796",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Mandalor",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "321524675",
+    "tagIdOnDrop": "452809305255575582",
+    "userIcon": "Hello there, :skull_crossbones:",
+    "tagIdOnClimb" : ""
+  },
+
+]
