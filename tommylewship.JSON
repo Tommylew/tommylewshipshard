@@ -1,4 +1,5 @@
-[{
+[
+    {
     "name": "Tommylew",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "938856333",
@@ -13,4 +14,5 @@
     "tagIdOnDrop": "452809305255575582",
     "userIcon": "",
     "tagIdOnClimb" : ""
-  },]
+  },
+]
