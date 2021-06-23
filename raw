@@ -10,9 +10,9 @@
   {
     "name": "Mandalor",
     "comment": "just a commment, not used by the bot",
-    "allyCode": "321524675",
-    "tagIdOnDrop": "452809305255575582",
+    "allyCode": "321524675", 
     "userIcon": "",
+    "tagIdOnDrop": "452809305255575582",
     "tagIdOnClimb" : ""
   },
 ]
