@@ -1,9 +1,8 @@
-[
-  {
+[{
     "name": "Tommylew",
     "comment": "useIcon accepts emoji or any other text",
     "allyCode": "938856333",
-    "userIcon": ":skull_crossbones:",
+    "userIcon": "",
     "tagIdOnDrop": "416358831388491796",
     "tagIdOnClimb": ""
   },
@@ -12,8 +11,6 @@
     "comment": "just a commment, not used by the bot",
     "allyCode": "321524675",
     "tagIdOnDrop": "452809305255575582",
-    "userIcon": "Hello there, :skull_crossbones:",
+    "userIcon": "",
     "tagIdOnClimb" : ""
-  },
-
-]
+  },]
