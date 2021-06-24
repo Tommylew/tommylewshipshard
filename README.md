@@ -1,2 +1,2 @@
-# tommylewshipshard.JSON
+# tommylewshipshard
 arena shard
